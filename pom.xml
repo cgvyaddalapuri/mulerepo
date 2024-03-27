@@ -32,7 +32,7 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>4.4</muleVersion>
+						<muleVersion>4.6.1</muleVersion>
 						<server>MyCloudhubDeployment</server>
 						<applicationName>MavenCloudHubDemo</applicationName>
 						<workers>1</workers>
