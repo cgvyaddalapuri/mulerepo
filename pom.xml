@@ -34,7 +34,7 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.6.1</muleVersion>
 						<server>MyCloudhubDeployment</server>
-						<applicationName>MavenCloudHubDemo</applicationName>
+						<applicationName>CICDDemo</applicationName>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
 						<objectStoreV2>true</objectStoreV2>
